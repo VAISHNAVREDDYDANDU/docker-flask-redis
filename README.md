@@ -28,3 +28,18 @@ http://localhost:5000
 Each refresh increases the visit count stored in Redis.
 ## Expected Output
 Hello! This page has been visited X times.
+---
+
+## Screenshots
+
+### Docker Containers Running
+![Docker Containers](screenshots/docker-containers.png
+)
+
+### Application Output (Browser)
+![Application Output](screenshots/browser-output.png
+)
+
+### Terminal Output
+![Terminal Output](screenshots/terminal-output.png
+)
